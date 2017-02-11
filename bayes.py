@@ -1,4 +1,4 @@
-# Classificação é provavelmente a tarefa de data mining mais conhecida e utilizada.
+# Classificação é a tarefa de data mining mais conhecida e utilizada.
 # Ela consiste em associar objetos a um conjunto pré-definido de classes de acordo com as suas características.
 # Implementado por ferramentas como MALLET, Apache Mahout e NLTK1, Naïve Bayes computa a probabilidade de um documento pertencer a
 # uma determinada classe a partir da probabilidade a priori de um documento ser desta classe e das probabilidades condicionais de
